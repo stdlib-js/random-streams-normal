@@ -543,6 +543,23 @@ $ random-normal 0.0 1.0 -n 10 --seed 1234
 
 <!-- /.cli -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/random/base/normal`][@stdlib/random/base/normal]: normally distributed pseudorandom numbers.
+-   [`@stdlib/random/iter/normal`][@stdlib/random/iter/normal]: create an iterator for generating pseudorandom numbers drawn from a normal distribution.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -607,6 +624,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [normal]: https://en.wikipedia.org/wiki/Normal_distribution
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
+
+<!-- <related-links> -->
+
+[@stdlib/random/base/normal]: https://github.com/stdlib-js/random-base-normal
+
+[@stdlib/random/iter/normal]: https://github.com/stdlib-js/random-iter-normal
+
+<!-- </related-links> -->
 
 </section>
 
